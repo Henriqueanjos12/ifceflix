@@ -1,0 +1,141 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "IFCE",
+      "cor": "green",
+      "link_extra": {
+        "text": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará",
+        "url": "https://ifce.edu.br"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "CIARTEC",
+      "cor": "yelow",
+      "link_extra": {
+        "text": "Ciência, Arte e Tecnologia",
+        "url": "https://pt-br.facebook.com/pg/oficinasciartec"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "FICemCASA",
+      "cor": "orange",
+      "link_extra": {
+        "text": "FICemCASA IFCE",
+        "url": "http://web.ficemcasa.ifce.edu.br/"
+      }
+    },
+    {
+      "titulo": "LIAED",
+      "cor": "#1507df",
+      "text": "Laboratório de Informática Aplicado à Educação",
+      "id": 4
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Vídeo Institucional do IFCE",
+      "url": "https://www.youtube.com/watch?v=OPDg_tvHxgY"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Conheça as modalidades de cursos técnicos do IFCE",
+      "url": "https://www.youtube.com/watch?v=h8IOWVBxNSA"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Vídeo institucional do IFCE (2015)",
+      "url": "https://www.youtube.com/watch?v=9aWbmvGCUZE"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Universo IFCE",
+      "url": "https://www.youtube.com/watch?v=3WAYYCez-KM"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "ENEM: porta de entrada para o IFCE",
+      "url": "https://www.youtube.com/watch?v=X4WCZuI85-s"
+    },
+    {
+      "id": 6,
+      "categoriaId": 2,
+      "titulo": "Demostração do Protótipo Galaxy Escape",
+      "url": "https://www.youtube.com/watch?v=Htw1oAiFsdY"
+    },
+    {
+      "id": 7,
+      "categoriaId": 2,
+      "titulo": "Prof Denys Sales Jornada de Metodologias Ativas 2020",
+      "url": "https://www.youtube.com/watch?v=v1EZZJ7MIPY"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Live - Mapa Conceitual, Mentimeter e Brainstorming com os Profs. Darkson Costa e Lisboa Coutinho",
+      "url": "https://www.youtube.com/watch?v=KE6ekW4KNBs"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Live - Adeus provas chatas! com os Profs. Denys Sales e João Victor",
+      "url": "https://www.youtube.com/watch?v=_gWBAC3hui8"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Ferramentas para bombar a sua aula online",
+      "url": "https://www.youtube.com/watch?v=A816aVVIrc8"
+    },
+    {
+      "id": 11,
+      "categoriaId": 3,
+      "titulo": "CRTED - Tutorial EDPUZZLE",
+      "url": "https://www.youtube.com/watch?v=bDFoVihlbuM"
+    },
+    {
+      "id": 12,
+      "categoriaId": 3,
+      "titulo": "CRTED - Apresentando o Google Sala de Aula (aspectos gerais) - PARTE I",
+      "url": "https://www.youtube.com/watch?v=OnyRWJpzIow"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "CRTED - Tutorial Completo Google Sala de Aula PARTE 2",
+      "url": "https://www.youtube.com/watch?v=HLYLeipEvZk"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "CRTED - Combinando Prezi Video com Google Meet e Powerpoint",
+      "url": "https://www.youtube.com/watch?v=j20HyLXeIdo"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "CRTED - Tutorial SOCRATIVE",
+      "url": "https://www.youtube.com/watch?v=TAKqZGhUpVI"
+    },
+    {
+      "titulo": "Dicas para as aulas remotas",
+      "url": "https://www.youtube.com/watch?v=85z314yNWQ8",
+      "categoriaId": 1,
+      "id": 16
+    },
+    {
+      "titulo": "Unidade EMBRAPII - Instituto Federal do Ceará (IFCE)",
+      "url": "https://www.youtube.com/watch?v=SQ7ZLuGLQ4c",
+      "categoriaId": 4,
+      "id": 17
+    }
+  ]
+}
